@@ -1,10 +1,31 @@
-# 👋 Hi, I'm Haile Shibru
-
-### 💻 IT Support | 🌐 Network Support | 🚀 Software Developer
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Haile%20Shibru&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=IT%20Support%20%7C%20Networking%20%7C%20Software%20Development&descAlignY=58&descSize=18" width="100%" alt="Haile Shibru banner" />
+</p>
 
 <p align="center">
-  <strong>🇪🇹 Computer Science Graduate from Ethiopia</strong><br>
-  I build practical technology solutions that solve real-world problems.
+  <a href="https://github.com/haile199105">
+    <img src="https://komarev.com/ghpvc/?username=haile199105&label=Profile%20Views&color=2563EB&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://github.com/haile199105?tab=followers">
+    <img src="https://img.shields.io/github/followers/haile199105?label=Followers&style=flat&color=0F172A" alt="GitHub followers" />
+  </a>
+</p>
+
+<h1 align="center">👋 Hi, I'm Haile Shibru</h1>
+
+<p align="center">
+  <strong>🇪🇹 Computer Science Graduate | 👨‍🏫 IT Instructor | 💻 Software Developer</strong>
+</p>
+
+<p align="center">
+  I build practical technology solutions for education, business and everyday problems.
+</p>
+
+<p align="center">
+  <a href="https://haile-portfolio-theta.vercel.app/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/haile-shibru-763418327">💼 LinkedIn</a> •
+  <a href="mailto:haileyesusshibru19@gmail.com">📧 Email</a>
 </p>
 
 ---
@@ -16,124 +37,118 @@
 🛠️ Experienced in IT support, troubleshooting and technical services  
 🌐 Interested in networking, system support and infrastructure  
 💻 Building web and mobile applications  
-🚀 Interested in using technology to solve practical problems in education, business and everyday life
+🚀 Interested in turning real-world problems into useful software solutions
 
 ---
 
-## 🔧 Tech Toolbox
+## 🛠️ Technology Stack
 
-### 💻 Programming
+### 💻 Languages
 
-`Python` `Java` `C++` `JavaScript` `TypeScript` `SQL`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,sql" alt="Programming languages" />
+</p>
+
+### 🌐 Web & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,express" alt="Web technologies" />
+</p>
+
+### 📱 Mobile & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,supabase,vercel" alt="Mobile and cloud technologies" />
+</p>
 
 ### 🌐 IT & Networking
 
-`TCP/IP` `Routers` `Switches` `Firewalls` `Windows` `Linux`
+<p>
+  <img src="https://img.shields.io/badge/TCP%2FIP-0F172A?style=for-the-badge" alt="TCP IP" />
+  <img src="https://img.shields.io/badge/Routers-2563EB?style=for-the-badge" alt="Routers" />
+  <img src="https://img.shields.io/badge/Switches-2563EB?style=for-the-badge" alt="Switches" />
+  <img src="https://img.shields.io/badge/Firewalls-0F172A?style=for-the-badge" alt="Firewalls" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
-### 🧩 Web & Mobile Development
+### 🧰 Tools
 
-`React` `Next.js` `Vite` `Tailwind CSS` `Flutter` `Firebase` `Supabase` `Express.js`
-
-### 🛠️ Tools & Platforms
-
-`Git` `GitHub` `Vercel` `Microsoft Office` `Excel` `Google Sheets`
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎓 EduTrack Pro | Student Management System
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 EduTrack Pro</h3>
+      <p><strong>Student Management System</strong></p>
+      <p>School management platform for students, teachers, attendance, marks, academic records, roles and reports.</p>
+      <p><strong>Stack:</strong> React · TypeScript · Firebase · Firestore · Express · Vite · Tailwind</p>
+      <a href="https://github.com/haile199105/student-management-system">📂 Repository</a> ·
+      <a href="https://smartclass-pro1.vercel.app/">🌐 Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎉 Digital Ceremony Platform</h3>
+      <p><strong>Wishes & Memory Platform</strong></p>
+      <p>Private-by-link ceremony pages with wishes, photos, signatures, moderation and downloadable memory packages.</p>
+      <p><strong>Stack:</strong> Next.js · React · TypeScript · Supabase · PostgreSQL · Tailwind</p>
+      <a href="https://github.com/haile199105/Digital-Ceremony-Platform">📂 Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍽️ ROME 1960 CAFE</h3>
+      <p><strong>Digital Menu & Management System</strong></p>
+      <p>Digital restaurant menu with categories, food items, availability controls, restaurant information and an admin dashboard.</p>
+      <p><strong>Stack:</strong> React · TypeScript · Vite · Express · Tailwind</p>
+      <a href="https://github.com/haile199105/Digital-menu-">📂 Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 Hirearky Frontend Redesign</h3>
+      <p><strong>Interactive Frontend Concept</strong></p>
+      <p>Independent redesign concept focused on modern UI, smooth scrolling, animation and interactive 3D experiences.</p>
+      <p><strong>Stack:</strong> React · TypeScript · GSAP · Three.js · React Three Fiber · Lenis</p>
+      <a href="https://github.com/haile199105/H_Website">📂 Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚌 Transport Management System</h3>
+      <p><strong>Transport Operations & Financial Ledger</strong></p>
+      <p>System for recording trips, passengers, income, expenses, routes and financial summaries.</p>
+      <p><strong>Stack:</strong> React · TypeScript · Supabase · Express · Tailwind</p>
+      <a href="https://github.com/haile199105/transport-management-system-">📂 Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📖 Story of Haile</h3>
+      <p><strong>Personal Storytelling Platform</strong></p>
+      <p>Interactive storytelling platform with chapters, diary, timeline, gallery, goals, search, comments and content management.</p>
+      <p><strong>Stack:</strong> React · TypeScript · Supabase · Express · Tailwind</p>
+      <a href="https://github.com/haile199105/Story-of-haile-">📂 Repository</a>
+    </td>
+  </tr>
+</table>
 
-A school management platform for managing students, teachers, attendance, marks, academic records, roles and reports.
-
-**Tech:** React · TypeScript · Firebase/Firestore · Express · Vite · Tailwind CSS
-
-🔗 [GitHub Repository](https://github.com/haile199105/student-management-system)  
-🌐 [Live Demo](https://smartclass-pro1.vercel.app/)
-
----
-
-### 🎉 Digital Ceremony Platform
-
-A private-by-link digital ceremony platform where guests can share wishes, photos and signatures. Includes event management, moderation, authentication and downloadable digital memory packages.
-
-**Tech:** Next.js · React · TypeScript · Supabase · PostgreSQL · Tailwind CSS · PDF-lib · JSZip
-
-🔗 [GitHub Repository](https://github.com/haile199105/Digital-Ceremony-Platform)
-
----
-
-### 🍽️ ROME 1960 CAFE Digital Menu
-
-A digital restaurant menu and management system built for ROME 1960 CAFE, with menu categories, food items, availability controls, restaurant information and an admin dashboard.
-
-**Tech:** React · TypeScript · Vite · Express · Tailwind CSS
-
-🔗 [GitHub Repository](https://github.com/haile199105/Digital-menu-)
-
----
-
-### 🎨 Hirearky Frontend Redesign
-
-A frontend redesign concept for Hirearky focused on modern UI, smooth scrolling, animation and interactive 3D experiences. This is an independent redesign concept, not the official Hirearky website.
-
-**Tech:** React · TypeScript · Vite · Tailwind CSS · GSAP · Three.js · React Three Fiber · Lenis
-
-🔗 [GitHub Repository](https://github.com/haile199105/H_Website)
-
----
-
-### 🚌 Transport Management System
-
-A transport operations and financial ledger system for recording trips, passengers, income, expenses, routes and financial summaries.
-
-**Tech:** React · TypeScript · Supabase · Express · Tailwind CSS
-
-🔗 [GitHub Repository](https://github.com/haile199105/transport-management-system-)
-
----
-
-### 📖 Story of Haile
-
-A personal storytelling platform with chapters, diary entries, timeline, gallery, future goals, search, comments and an admin content management system.
-
-**Tech:** React · TypeScript · Supabase · Express · Tailwind CSS
-
-🔗 [GitHub Repository](https://github.com/haile199105/Story-of-haile-)
-
----
-
-### 💼 Professional Hub
-
-A professional services and training platform covering CV and cover-letter support, LinkedIn optimization, job application support, portfolio development, computer training and AI training.
-
-**Tech:** React · TypeScript · Vite · Tailwind CSS · Google Gemini
-
-🔗 [GitHub Repository](https://github.com/haile199105/Professional-Hub)
-
----
-
-### 🤖 Telegram Automation Projects
-
-I have also built small Telegram automation projects for personal messaging and AI-assisted promotional content generation and channel publishing.
-
-**Tech:** JavaScript · Node.js · Telegram API · Google Gemini · Telegraf
+<p align="center">
+  <a href="https://github.com/haile199105?tab=repositories"><strong>🔎 View All Repositories →</strong></a>
+</p>
 
 ---
 
 ## 💼 Practical Experience
 
-### 👨‍🏫 IT Instructor
-
-Providing practical computer and IT training while helping learners understand technology through hands-on work.
-
-### 📡 GPS Installation Technician
-
-Installed and configured GPS tracking devices, troubleshot technical issues and supported customers with GPS-related services.
-
-### 🖥️ IT Intern
-
-Provided hardware, software, user and basic network support at Koye Feche Sub-city Science & Technology Bureau.
+| Role | Focus |
+|---|---|
+| 👨‍🏫 **IT Instructor** | Practical computer training, technical support and hands-on learning |
+| 📡 **GPS Installation Technician** | GPS installation, configuration, troubleshooting and customer support |
+| 🖥️ **IT Intern** | Hardware, software, user and basic network support |
 
 ---
 
@@ -149,6 +164,23 @@ Provided hardware, software, user and basic network support at Koye Feche Sub-ci
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haile199105&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165" alt="Haile's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haile199105&layout=compact&hide_border=true&langs_count=8" height="165" alt="Haile's top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=haile199105&hide_border=true" alt="Haile's GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haile199105&hide_border=true&area=true" alt="Haile's GitHub contribution activity" width="95%" />
+</p>
+
+---
+
 ## 🌱 Currently Learning
 
 - Advanced IT Support & System Administration
@@ -159,20 +191,22 @@ Provided hardware, software, user and basic network support at Koye Feche Sub-ci
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haile199105&show_icons=true&hide_border=true" alt="Haile's GitHub Stats" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
-📧 **Email:** [haileyesusshibru19@gmail.com](mailto:haileyesusshibru19@gmail.com)  
-💼 **LinkedIn:** [Haile Shibru](https://www.linkedin.com/in/haile-shibru-763418327)  
-🌐 **Portfolio:** [haile-portfolio-theta.vercel.app](https://haile-portfolio-theta.vercel.app/)  
-🐙 **GitHub:** [@haile199105](https://github.com/haile199105)
+<p align="center">
+  <a href="mailto:haileyesusshibru19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-haileyesusshibru19%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/haile-shibru-763418327">
+    <img src="https://img.shields.io/badge/LinkedIn-Haile%20Shibru-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://haile-portfolio-theta.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/haile199105">
+    <img src="https://img.shields.io/badge/GitHub-haile199105-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
@@ -182,4 +216,9 @@ Provided hardware, software, user and basic network support at Koye Feche Sub-ci
 
 <p align="center">
   <em>Technology is most valuable when it solves a real problem.</em>
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer" width="100%" alt="Footer" />
 </p>
