@@ -22,15 +22,6 @@
   I build practical technology solutions for education, business and everyday problems.
 </p>
 
-<!-- ASCII portrait -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/haile199105/haile199105/main/assets/haile-ascii.svg" width="420" alt="ASCII portrait of Haile Shibru" />
-</p>
-
-<p align="center">
-  <em>Turning ideas into practical technology.</em>
-</p>
-
 <p align="center">
   <a href="https://haile-portfolio-theta.vercel.app/">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/haile-shibru-763418327">💼 LinkedIn</a> •
